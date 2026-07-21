@@ -1,1 +1,1 @@
-# MDC-logback-multiprorile
+# MDC-logback-multiprorile 실습
